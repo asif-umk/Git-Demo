@@ -7,3 +7,5 @@ add body to file 1
 add footer from byg fix in file 1
 
 add something to stash
+
+another stash with comment
