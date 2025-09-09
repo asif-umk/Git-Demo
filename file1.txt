@@ -3,4 +3,4 @@ i have done changes in file1
 
 add header from bug fix in file 1
 
-add body from bug fix in file 1
+add footer from byg fix in file 1
